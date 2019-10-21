@@ -1,0 +1,1 @@
+//new schema for the contents of each post. title, url, description, possibly image
